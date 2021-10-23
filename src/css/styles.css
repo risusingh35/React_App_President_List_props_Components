@@ -1,0 +1,28 @@
+.ContactsCard {
+  width: 500px;
+  font-family: sans-serif;
+  margin: 5%;
+}
+.ContactsCard img {
+  border-radius: 100%;
+  border: #fff solid 3px;
+  width: 25%;
+  margin-left: 65%;
+  margin-top: -5%;
+  z-index: 1;
+}
+.top {
+  background-color: #00cec9;
+  width: 100%;
+  height: 150px;
+  border-radius: 10px 10px 0 0;
+  padding: 5%;
+  margin-bottom: -20px;
+}
+.bottom {
+  background-color: #1eff;
+  width: 100%;
+  height: 150px;
+  padding: 5%;
+  border-radius: 0 0 10px 10px;
+}
